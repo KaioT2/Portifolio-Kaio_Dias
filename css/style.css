@@ -333,69 +333,7 @@ hr{
     margin-left: 45%;
 }
 
-/* @media screen and (min-width: 400px){
-
-    .header-menu{
-        display: none;
-    }
-
-    .hero-main-title{
-        font-size: 45px;
-    }
-
-    .hero-main-subtitle{
-        font-size: 13px;
-    }
-
-    .about-main{
-        gap: 20px;
-        padding-bottom: 40px;
-    }
-
-    .about-main-subtitle{
-        font-size: 35px;
-    }
-
-    .about-main-header, .projects-header, .projects-items{
-        flex-direction: column;
-    }
-
-    .about-main-content{
-        flex-direction: column-reverse;
-        gap: 20px;
-    }
-
-    .projects{
-        height: 1550px;
-    }
-
-    .projects-header{
-        flex-direction: column;
-    }
-
-    .projects-subtitle{
-        font-size: 30px;
-    }
-
-    .projects-items{
-        flex-direction: column;
-        gap:25px;
-        margin-top: 15px;
-    }
-    
-    .logo{
-        display:none;
-    }
-
-    .copy > p {
-        font-family: Montserrat;
-        font-size: 16px;
-        font-weight: 300;
-        margin-left: 30%;
-    }
-} */
-
-@media screen and (max-width: 1300px){
+@media screen and (max-width: 1280px){
     .header-menu{
         display: none;
     }
@@ -449,6 +387,6 @@ hr{
     }
 
     .copy > p{
-        margin-left: 30%;
+        margin-left: 40%;
     }
 }
